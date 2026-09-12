@@ -1,0 +1,20 @@
+/node_modules
+/.next
+/out
+/.turbo
+/.cache
+/coverage
+/dist
+/.vercel
+*.log
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.env*
+!.env.example
+
+# Local workspace files
+/AGENTS.md
+/CLAUDE.md
+/exec-*.png
+/public/images/references/
