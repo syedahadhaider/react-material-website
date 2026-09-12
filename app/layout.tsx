@@ -15,7 +15,7 @@ const sans = Manrope({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://materialstudies.example"),
+  metadataBase: new URL("https://material-studies.vercel.app"),
   title: {
     default: "Material Studies — A Quieter Kind of Future",
     template: "%s — Material Studies",

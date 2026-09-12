@@ -2,6 +2,8 @@
 
 Material Studies is an editorial website exploring objects, processes, and stories shaped by material practice. It combines a restrained visual system with responsive layouts, subtle motion, and dedicated pages for research, objects, and field notes.
 
+**Live site:** [material-studies.vercel.app](https://material-studies.vercel.app)
+
 ## Features
 
 - Responsive editorial layouts across desktop and mobile

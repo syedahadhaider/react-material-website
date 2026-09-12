@@ -13,7 +13,7 @@ const routes = [
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return routes.map((route) => ({
-    url: `https://materialstudies.example${route}`,
+    url: `https://material-studies.vercel.app${route}`,
     lastModified: new Date("2026-09-06"),
     changeFrequency: route === "" ? "monthly" : "yearly",
     priority: route === "" ? 1 : 0.7,
